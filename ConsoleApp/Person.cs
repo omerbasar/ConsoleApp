@@ -10,5 +10,8 @@ namespace ConsoleApp
     {
         public int MyProperty { get; set; }
         public int Id { get; set; }
+
+        //Security
+        public string Password { get; set; }
     }
 }
