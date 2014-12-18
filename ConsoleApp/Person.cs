@@ -9,5 +9,6 @@ namespace ConsoleApp
     class Person
     {
         public int MyProperty { get; set; }
+        public int Id { get; set; }
     }
 }

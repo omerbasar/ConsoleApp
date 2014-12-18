@@ -8,5 +8,6 @@ namespace ConsoleApp
 {
     class Vehicle
     {
+        public int Id { get; set; }
     }
 }
